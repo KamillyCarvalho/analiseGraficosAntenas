@@ -1,101 +1,101 @@
 Gráfico,frequência de ressonância,S11,BW
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='4mm'""}",235.0,-10.74219,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='8mm'""}",235.0,-10.34760,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='8mm'""}",235.0,-10.19738,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='8mm'""}",230.0,-10.13463,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='8mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='8mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='8mm'""}",205.0,-10.09687,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='8mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='8mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='8mm'""}",215.0,-11.02881,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='8mm'""}",215.0,-11.08122,25.0
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='12mm'""}",210.0,-10.91388,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='12mm'""}",210.0,-11.45535,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='12mm'""}",215.0,-12.55185,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='12mm'""}",210.0,-13.58080,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='12mm'""}",210.0,-14.21876,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='12mm'""}",205.0,-16.87196,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='12mm'""}",200.0,-18.80410,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='12mm'""}",200.0,-19.87903,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='12mm'""}",195.0,-20.80794,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='12mm'""}",190.0,-17.31226,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='16mm'""}",210.0,-11.02062,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='16mm'""}",210.0,-11.32935,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='16mm'""}",205.0,-13.38299,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='16mm'""}",205.0,-14.36732,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='16mm'""}",200.0,-18.71309,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='16mm'""}",195.0,-20.94325,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='16mm'""}",190.0,-16.47478,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='16mm'""}",185.0,-20.07912,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='16mm'""}",180.0,-20.93033,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='16mm'""}",175.0,-13.92281,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='20mm'""}",210.0,-11.47218,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='20mm'""}",210.0,-12.81253,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='20mm'""}",205.0,-17.06658,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='20mm'""}",200.0,-21.02018,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='20mm'""}",195.0,-33.97472,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='20mm'""}",190.0,-23.88418,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='20mm'""}",185.0,-15.94599,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='20mm'""}",180.0,-11.80336,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='20mm'""}",175.0,-10.88483,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='20mm'""}",170.0,-11.95850,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='24mm'""}",210.0,-11.69498,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='24mm'""}",210.0,-12.56256,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='24mm'""}",205.0,-13.99629,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='24mm'""}",195.0,-16.19253,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='24mm'""}",190.0,-23.25645,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='24mm'""}",185.0,-17.52104,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='24mm'""}",180.0,-11.79079,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='24mm'""}",175.0,-10.35519,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='24mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='24mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='28mm'""}",210.0,-11.82888,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='28mm'""}",210.0,-13.94903,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='28mm'""}",200.0,-16.58318,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='28mm'""}",195.0,-14.48627,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='28mm'""}",190.0,-11.06055,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='28mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='28mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='28mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='28mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='28mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='32mm'""}",210.0,-12.45288,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='32mm'""}",210.0,-15.00404,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='32mm'""}",200.0,-17.11968,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='32mm'""}",195.0,-15.59853,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='32mm'""}",185.0,-12.81492,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='32mm'""}",180.0,-11.02877,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='32mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='32mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='32mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='32mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='36mm'""}",210.0,-10.70171,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='36mm'""}",210.0,-14.53139,20.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='36mm'""}",200.0,-20.46519,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='36mm'""}",190.0,-20.49160,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='36mm'""}",185.0,-10.92487,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='36mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='36mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='36mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='36mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='36mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='40mm'""}",210.0,-12.28429,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='40mm'""}",205.0,-17.08631,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='40mm'""}",200.0,-22.80982,15.0
-"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='40mm'""}",190.0,-13.85100,10.0
-"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='40mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='40mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='40mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='40mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='40mm'""}",,,
-"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='40mm'""}",,,
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='4mm'""}","200, 230","-9.43071, -10.74219",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='8mm'""}","200, 230","-9.93466, -10.34760",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='8mm'""}","200, 225","-9.19008, -10.19738",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='8mm'""}","200, 225","-9.42619, -10.13463",10.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='8mm'""}","200, 225","-9.49482, -9.98629",
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='8mm'""}","200, 220","-9.49087, -9.85811",
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='8mm'""}","200, 220","-10.09687, -9.80902",10.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='8mm'""}",215,-9.96113,
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='8mm'""}",215,-9.85161,
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='8mm'""}",205,-11.02881,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='8mm'""}",200,-11.08122,25.0
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='12mm'""}","200, 225","-10.91388, -9.74423",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='12mm'""}","200, 220","-11.45535, -9.46615",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='12mm'""}",200,-12.55185,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='12mm'""}",200,-13.58080,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='12mm'""}",195,-14.21876,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='12mm'""}",195,-16.87196,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='12mm'""}",190,-18.80410,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='12mm'""}",190,-19.87903,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='12mm'""}",185,-20.80794,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='12mm'""}",185,-17.31226,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='16mm'""}","200, 225","-11.02062, -9.39068",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='16mm'""}",200,-11.32935,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='16mm'""}",195,-13.38299,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='16mm'""}",195,-14.36732,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='16mm'""}",190,-18.71309,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='16mm'""}",185,-20.94325,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='16mm'""}",185,-16.47478,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='16mm'""}",180,-20.07912,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='16mm'""}",175,-20.93033,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='16mm'""}",170,-13.92281,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='20mm'""}","200, 220","-11.47218, -9.05259",15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='20mm'""}",200,-12.81253,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='20mm'""}",195,-17.06658,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='20mm'""}",190,-21.02018,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='20mm'""}",185,-33.97472,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='20mm'""}",180,-23.88418,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='20mm'""}",175,-15.94599,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='20mm'""}",170,-11.80336,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='20mm'""}",170,-10.88483,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='20mm'""}",165,-11.95850,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='24mm'""}",200,-11.69498,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='24mm'""}",200,-12.56256,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='24mm'""}",195,-13.99629,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='24mm'""}",190,-16.19253,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='24mm'""}",185,-23.25645,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='24mm'""}",180,-17.52104,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='24mm'""}",175,-11.79079,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='24mm'""}",170,-10.35519,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='24mm'""}",165,-8.29107,
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='24mm'""}",160,-6.28336,
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='28mm'""}",200,-11.82888,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='28mm'""}",200,-13.94903,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='28mm'""}",195,-16.58318,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='28mm'""}",190,-14.48627,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='28mm'""}",185,-11.06055,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='28mm'""}",175,-9.35082,
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='28mm'""}",170,-8.12108,
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='28mm'""}",165,-7.25483,
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='28mm'""}",165,-5.75746,
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='28mm'""}",160,-5.27265,
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='32mm'""}",200,-12.45288,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='32mm'""}",200,-15.00404,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='32mm'""}",190,-17.11968,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='32mm'""}",185,-15.59853,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='32mm'""}",180,-12.81492,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='32mm'""}",175,-11.02877,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='32mm'""}",170,-9.12443,
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='32mm'""}",165,-6.83343,
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='32mm'""}",160,-6.52926,
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='32mm'""}",155,-5.37770,
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='36mm'""}",200,-10.70171,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='36mm'""}",200,-14.53139,20.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='36mm'""}",190,-20.46519,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='36mm'""}",185,-20.49160,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='36mm'""}",180,-10.92487,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='36mm'""}",175,-7.88779,
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='36mm'""}",170,-6.27820,
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='36mm'""}",165,-6.23108,
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='36mm'""}",160,-5.77423,
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='36mm'""}",155,-4.78809,
+"{""dB(S(1,1)) [] - WTRIAGX='4mm' WTRIAGY='40mm'""}",205,-12.28429,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='8mm' WTRIAGY='40mm'""}",195,-17.08631,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='12mm' WTRIAGY='40mm'""}",190,-22.80982,15.0
+"{""dB(S(1,1)) [] - WTRIAGX='16mm' WTRIAGY='40mm'""}",185,-13.85100,10.0
+"{""dB(S(1,1)) [] - WTRIAGX='20mm' WTRIAGY='40mm'""}",180,-9.47759,
+"{""dB(S(1,1)) [] - WTRIAGX='24mm' WTRIAGY='40mm'""}",170,-7.06719,
+"{""dB(S(1,1)) [] - WTRIAGX='28mm' WTRIAGY='40mm'""}",165,-6.61612,
+"{""dB(S(1,1)) [] - WTRIAGX='32mm' WTRIAGY='40mm'""}",160,-5.61965,
+"{""dB(S(1,1)) [] - WTRIAGX='36mm' WTRIAGY='40mm'""}",160,-4.12449,
+"{""dB(S(1,1)) [] - WTRIAGX='40mm' WTRIAGY='40mm'""}",155,-4.30784,
